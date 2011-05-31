@@ -1,0 +1,50 @@
+#posts-filter{
+	display:none;	
+}
+
+#media-upload .count{
+	display:none;
+}
+ul.subsubsub li.all .count{
+	display:none;
+}
+
+ul.subsubsub li.publish{
+	display:none;
+}
+
+ul.subsubsub li.all{
+	display:none;
+}
+
+ul.subsubsub li.image span.count{
+	display:none;
+}
+
+ul.subsubsub li.detached span.count{
+	display:none;
+}
+
+ul.subsubsub li.trash{
+	display:none;
+}
+
+ul.subsubsub li.spam{
+	display:none;
+}
+
+#awaiting-mod{
+	display:none;
+}
+
+.pending-count{
+	display:none;
+}
+
+#media-upload{
+	display:none;
+}
+
+.current .count{
+	display:none;
+}
